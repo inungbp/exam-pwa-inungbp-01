@@ -35,7 +35,7 @@ const ConfigurableView = (props) => {
 
     return (
         <>
-            <div className="flex flex-col gap-2 tablet:gap-4">
+            <div className="flex flex-col gap-2">
                 {showSwatches
                     && updatedOptions?.map((item, index) => (
                         <Item

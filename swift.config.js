@@ -22,7 +22,7 @@ const HOST = {
 
 /* Magento GraphQL Endpoint */
 const graphqlEndpoint = {
-    local: 'https://swift-dev.testingnow.me/graphql',
+    local: 'https://exam.testingnow.me/graphql',
     dev: 'https://swift-dev.testingnow.me/graphql',
     stage: 'https://b2cdemonew.gcp-staging.testingnow.me/graphql',
     prod: 'https://b2cdemo.getswift.asia/graphql',
@@ -84,11 +84,11 @@ const cmsSocialMediaLinkIdentifiers = 'pwa_socmed_links';
 
 /* Header */
 // identifier for header (v1, v2, v3, v4)
-const headerVersion = 'v1';
+const headerVersion = 'v2';
 
 /* Footer */
 // identifier for footer (pwa_footer_v1, pwa_footer_v2, pwa_footer_v3, pwa_footer_v4)
-const footerVersion = 'pwa_footer_v1';
+const footerVersion = 'pwa_footer_v2';
 
 /* Social media link */
 // social media link in dashboard
